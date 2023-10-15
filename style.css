@@ -1,0 +1,41 @@
+.container{
+    margin: 0 auto;
+    width: 1200px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+
+}
+.icon img{
+    width: 500px;
+    height: 500px;
+    
+}
+.icon_text p{
+    font-size: 35px;
+    color: yellow;
+    display: block;
+}
+.swiper{
+    width: 100%;
+    height: 600px;
+}
+.flex_icon{
+    display: flex;
+    justify-content: space-between;
+}
+.icon__st{
+    width: 100%;
+    min-height: 500px;
+   
+}
+.icon__st a{
+    width: 100%;
+    min-height: 500px;
+    display: block;
+}
+.icon-but{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
